@@ -33,12 +33,12 @@ public class App {
 
             System.out.println("deseja experimentar outro aparelho(S/N) ?");
             String next = scn.next();
-            scn.close();
 
             if(next.matches("n|N")){
                 power = false;
             }
         }
+        scn.close();
 
     }
 
