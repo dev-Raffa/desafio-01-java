@@ -18,3 +18,6 @@ Pré-requisitos:
  - IDE (Visual Studio Code, Eclipse, etc);
 
 
+## UML:
+-------
+<img src="./assets/UML-IPHONE.drawio.png" ></img>
