@@ -1,4 +1,4 @@
-package dio-desafio-01.app;
+package diodesafio01.app;
 
 import static org.junit.Assert.assertTrue;
 
